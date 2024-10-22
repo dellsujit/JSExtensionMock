@@ -1,0 +1,15 @@
+{
+  "name": "tunagroup",
+  "version": "1.0.0",
+  "description": "TestApplicationForTunaGroup",
+  "main": "src/haloExtnApplication.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "start": "node src/haloExtnApplication.js",
+    "test": "node tests/testRunner.js"
+  },
+  "author": "Sujit",
+  "license": "ISC"
+}
